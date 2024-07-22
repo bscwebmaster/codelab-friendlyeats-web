@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "friendlyeats-codelab": "testproject-c50b0",
+    "default": "testproject-c50b0",
+    "testproject-firebase": "testproject-c50b0"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
