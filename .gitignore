@@ -3,3 +3,4 @@ lib/firebase/config.js
 .firebase/
 node_modules/
 testproject-c50b0
+apphosting.yaml
